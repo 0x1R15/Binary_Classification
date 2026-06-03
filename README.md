@@ -6,6 +6,7 @@ This project demonstrates the implementation of a Support Vector Machine (SVM) f
 - SVM model training
 - Binary classification prediction
 - Model evaluation using accuracy metrics
+- TFID Vectorization
 
 ## Technologies Used
 - Python
